@@ -32,7 +32,11 @@ HEADERS += \
     tile.h \
     piece.h \
     player.h \
-    rook.h
+    rook.h \
+    queen.h \
+    bishop.h \
+    pawn.h \
+    king.h
 
 FORMS += \
         mainwindow.ui
