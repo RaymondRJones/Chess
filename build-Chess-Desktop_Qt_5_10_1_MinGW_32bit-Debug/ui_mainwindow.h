@@ -34,12 +34,12 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QStringLiteral("MainWindow"));
-        MainWindow->resize(27, 60);
+        MainWindow->resize(623, 476);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QStringLiteral("centralWidget"));
         graphicsView = new QGraphicsView(centralWidget);
         graphicsView->setObjectName(QStringLiteral("graphicsView"));
-        graphicsView->setGeometry(QRect(-20, -30, 171, 141));
+        graphicsView->setGeometry(QRect(-20, -30, 631, 451));
         graphicsView->setDragMode(QGraphicsView::ScrollHandDrag);
         MainWindow->setCentralWidget(centralWidget);
         mainToolBar = new QToolBar(MainWindow);

@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>27</width>
-    <height>60</height>
+    <width>623</width>
+    <height>476</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,8 +19,8 @@
      <rect>
       <x>-20</x>
       <y>-30</y>
-      <width>171</width>
-      <height>141</height>
+      <width>631</width>
+      <height>451</height>
      </rect>
     </property>
     <property name="dragMode">
